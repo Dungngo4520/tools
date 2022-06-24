@@ -1,0 +1,7 @@
+﻿WinHex 20.5 x86, User: JUMP-WINDOWS
+20/06/2022  22:34:13  WinHex | Master Boot Record.tpl: Offset 1A0
+Boot Sector NTFS.tpl: Offset 1F0
+20/06/2022  22:35:36  WinHex | "C:\Users\JUMP-WINDOWS\OneDrive\Desktop\vcs intern\winhex\Master Boot Record.tpl" has already been opened.
+20/06/2022  22:36:28  WinHex | Missing administrator privileges. You need to specifically run the program as administrator to have sector-level access to storage devices. For example you can right-click the .exe file for that.
+
+Solution: Restart winhex.exe now? | Yes
